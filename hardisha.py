@@ -1,0 +1,1 @@
+print('Hardik is fool')
